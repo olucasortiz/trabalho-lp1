@@ -1,0 +1,6 @@
+@TrabalhoLP1_HostAddress = http://localhost:5280
+
+GET {{TrabalhoLP1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
